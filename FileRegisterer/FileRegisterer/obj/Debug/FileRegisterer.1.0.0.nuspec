@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileRegisterer</id>
+    <version>1.0.0</version>
+    <authors>FileRegisterer</authors>
+    <owners>FileRegisterer</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="Entitites" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.FileExtensions" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting.WindowsServices" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.EventLog" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\x64\Debug\netcoreapp2.2\FileRegisterer.runtimeconfig.json" target="lib\netcoreapp2.2\FileRegisterer.runtimeconfig.json" />
+    <file src="C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\x64\Debug\netcoreapp2.2\FileRegisterer.dll" target="lib\netcoreapp2.2\FileRegisterer.dll" />
+  </files>
+</package>

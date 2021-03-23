@@ -1,0 +1,15 @@
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\Debug\netcoreapp2.2\FileRegisterer.deps.json
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\Debug\netcoreapp2.2\FileRegisterer.runtimeconfig.json
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\Debug\netcoreapp2.2\FileRegisterer.runtimeconfig.dev.json
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\Debug\netcoreapp2.2\FileRegisterer.dll
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\Debug\netcoreapp2.2\FileRegisterer.pdb
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\Debug\netcoreapp2.2\Entitites.dll
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\bin\Debug\netcoreapp2.2\Entitites.pdb
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\obj\Debug\netcoreapp2.2\FileRegisterer.csprojAssemblyReference.cache
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\obj\Debug\netcoreapp2.2\FileRegisterer.csproj.CoreCompileInputs.cache
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\obj\Debug\netcoreapp2.2\FileRegisterer.AssemblyInfoInputs.cache
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\obj\Debug\netcoreapp2.2\FileRegisterer.AssemblyInfo.cs
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\obj\Debug\netcoreapp2.2\FileRegisterer.csproj.CopyComplete
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\obj\Debug\netcoreapp2.2\FileRegisterer.dll
+C:\Users\seymurhus\source\repos\FileTransfer\FileRegisterer\obj\Debug\netcoreapp2.2\FileRegisterer.pdb
